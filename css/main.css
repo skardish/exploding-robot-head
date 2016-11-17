@@ -1,6 +1,5 @@
 html {
   box-sizing: border-box;
-
   font: normal 100%/1.5 sans-serif;
 }
 
@@ -23,8 +22,6 @@ body {
   width: 320px;
   position: relative;
   margin: 0 auto;
-  top: 2.5rem;
-  right: .5rem;
 }
 
 .robot-body {
@@ -39,10 +36,12 @@ body {
 }
 
 .robot-head-right {
+  position: absolute;
   left: 10rem;
 }
 
 .robot-head-left {
+  position: absolute;
   right: 10rem;
 }
 
