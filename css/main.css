@@ -38,11 +38,13 @@ body {
 .robot-head-right {
   position: absolute;
   left: 10rem;
+  bottom: 4rem;
 }
 
 .robot-head-left {
   position: absolute;
   right: 10rem;
+  bottom: 4rem;
 }
 
 .robot:hover .robot-head-right {
