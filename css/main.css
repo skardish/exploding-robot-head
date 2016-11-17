@@ -37,7 +37,16 @@ body {
 
 }
 
-.robot-head-right,
+.robot-head-right {
+  width: 125px;
+  position: relative;
+  bottom: 20rem;
+  left: 8.9rem;
+}
+
 .robot-head-left {
   width: 125px;
+  position: relative;
+  bottom: 20rem;
+  right: 7rem;
 }
